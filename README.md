@@ -17,4 +17,4 @@ I have experience in Python, Pandas, NumPy, Matplotlib, and Seaborn for data ana
 
 ### 📫 How to reach me:
 - *Email:* iqraamanat002@gmail.com  
-- *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/iqra-amanat/)
